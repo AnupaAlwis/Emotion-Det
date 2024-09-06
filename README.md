@@ -31,3 +31,11 @@ By combining the power of computer vision and deep learning, this application ca
 - **Flask**: Backend framework for API handling.
 - **OpenCV**: Face detection using the Haar Cascade Classifier.
 - **Keras & TensorFlow**: Custom CNN model for emotion classification.
+
+## License
+
+This project is licensed under the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
+
+## Contact
+
+If you have any questions or suggestions, please feel free to reach out to us at [gayanukaamarasuriya@gmail.com](mailto:isurajithalwis@gmail.com).
